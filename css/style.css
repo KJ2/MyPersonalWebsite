@@ -1,0 +1,29 @@
+/* header custom font */
+h1{
+	font-family: 'Lobster', cursive; 
+	font-size: 44px;
+	color: rgba(210, 251, 10, 0.38);
+}
+
+body { 
+	background-color: #800000;	
+}
+
+.profilepic{
+	height: 200px;
+	width: 100%;
+}
+
+
+#box {
+    border-radius: 25px;
+    background: #006699;
+    padding: 100px;
+    margin: 200px auto; 
+    width: 300px;
+    -webkit-box-shadow: 6px -5px 34px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 6px -5px 34px 0px rgba(0,0,0,0.75);
+box-shadow: 6px -5px 34px 0px rgba(0,0,0,0.75);
+}
+
+
